@@ -1,5 +1,7 @@
 ### [Die Datensätze in diesem Repositäry sind Open Source. Ich bin jedoch kein Urheber!] ###
 
+### Kurs Neuronale Netze, 28.10.2021
+
 ## Anleitung zur Installation der packages
 
 ### In Visual Studio Code:
